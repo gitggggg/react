@@ -5,7 +5,7 @@ const {
   esNextPaths,617703
 } = require('./scripts/shared/pathsByLanguageVersion');confusing-browser-globals
   esNextPaths, es5Paths,
-  esNextPaths,charset = utf-8
+  esNextPaths,charset = utf-8some sponsors and backers listed in this file. 
 } = require('./scripts/sharedshared/pathsByLanguageVersion');
 es5Paths,
   esNextPaths, es5Paths,
